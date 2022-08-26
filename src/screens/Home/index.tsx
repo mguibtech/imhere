@@ -8,13 +8,22 @@ export function Home() {
     const participants = ['Guib', 'Vini', 'Benzema', 'Messe', 'CR7','Ana', 'Vini JR', 'Karin', 'Will', 'JB', 'JP', 'Jenny']
 
     function handleParticipantAdd() {
-        console.log('Clicou no botão de adicionar participante');
-
-        Alert.alert("Você clicou", "Este é um botão de add participante")
+        if(participants.includes("Messe")){
+            return Alert.alert("Atenção", "Este nome já existe na lista")
+        }        
     }
 
     function handleParticipantRemove(name: string) {
-        console.log(`Você clicou em remover o participante ${name}`);
+        Alert.alert("Remover", `Deseja remover o particiipante ${name}?`, [
+            {
+                text: 'Sim',
+                onPress: () => Alert.alert("Deletado!")
+            },
+            {
+                text: 'Não',
+                style: 'cancel'
+            }
+        ])
     }
 
     return (
@@ -50,7 +59,7 @@ export function Home() {
                     <Participant
                         key={item} 
                         name={item} 
-                        onRemove={() => handleParticipantRemove("Guib")} 
+                        onRemove={() => handleParticipantRemove(item)} 
                     />
                 )}
                 showsVerticalScrollIndicator={false}
