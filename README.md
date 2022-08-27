@@ -63,6 +63,12 @@ O layout da aplicação está disponível no Figma:
 
 ---
 
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na constução do projeto:
+- [TypeScript]
+- [React Native]
+- [Expo]
+
 ## 💪 Como contribuir no projeto
 
 1. Faça um **fork** do projeto.
