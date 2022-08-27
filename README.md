@@ -61,4 +61,15 @@ O layout da aplicação está disponível no Figma:
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Confirm Remove.png" width="200px">
 </p>
 
-### Web
+---
+
+## 💪 Como contribuir no projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://medium.com/@lcnogueira/um-guia-para-contribui%C3%A7%C3%A3o-em-projetos-open-source-no-github-46a423e4e9b3)
+
+---
+
