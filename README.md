@@ -17,19 +17,10 @@ Tabela de conteúdos
    * [Funcionalidades](#-funcionalidades)
    * [Layout](#-layout)
      * [Mobile](#mobile)
-     * [Web](#web)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
-     * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
+   * [Como executar o projeto](#-baixando-e-executando)
    * [Tecnologias](#-tecnologias)
-     * [WebSite](#user-content-website--react----typescript)
-     * [Server](#user-content-server--nodejs----typescript)
-     * [Mobile](#user-content-mobile--react-native----typescript)
-   * [Contribuidores](#-contribuidores)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
    * [Autor](#-autor)
-   * [Licença](#user-content--licença)
 <!--te-->
 
 ## 💻 Sobre o projeto
@@ -71,7 +62,7 @@ As seguintes ferramentas foram usadas na constução do projeto:
 
 ---
 
-#### 🧭 Baixando e executando
+## 🧭 Baixando e executando
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -104,3 +95,15 @@ $ expo start
 
 ---
 
+### 🦸 Autor
+
+
+<a href="https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/">
+ <img style="border-radius: 50%;" src="https://github.com/mguibtech.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>Marcos Guibson</b></sub></a> <a href="https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/" title="mguibtech">🚀</a>
+
+Feito com ❤️ por Marcos Guibson 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos_Guibson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/)](https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/) 
+[![Gmail Badge](https://img.shields.io/badge/-mguibtech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mguibtech@gmail.com)](mailto:mguibtech@gmail.com)
