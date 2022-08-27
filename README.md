@@ -53,6 +53,12 @@ A Rocketseat é uma plataforma de educação em tecnologia onde você encontra t
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/1NAoVWvqtfpDDkz3tpvs2X/Chapter-I---Im-Here-(Copy)?node-id=0%3A1">
-  <img alt="ImHere" src="./assets/Home.png">
-</a>
+### Mobile
+
+<p align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Home.png" width="200px">
+ <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Typing New.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Confirm Remove.png" width="200px">
+</p>
+
+### Web
