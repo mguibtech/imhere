@@ -14,6 +14,10 @@ export function Home() {
             return Alert.alert("Atenção", "Este nome já existe na lista")
         }
 
+        if(participantName === ''){
+            return Alert.alert("Atenção", "Nome de usuário vazio. Preencha o campo de formulário!")
+        }
+
         
         setParticipants(prevSatate =>[...prevSatate, participantName]);
         setParticipantName('')
