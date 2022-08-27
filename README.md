@@ -33,11 +33,11 @@ Tabela de conteúdos
 <!--te-->
 
 ## 💻 Sobre o projeto
-✅ ImHere - e uma aplicação para gerenciar os participantes presentes em eventos, como em palestras e workshop.
+✅ ImHere - é uma aplicação para gerenciar os participantes presentes em eventos, como em palestras e workshop.
 
 Projeto desenvolvido durante a especialiação da [Rocketseat](https://www.rocketseat.com.br/) em React Native.
-
 A Rocketseat é uma plataforma de educação em tecnologia onde você encontra tudo o que precisa para progredir na programação e alcançar seus objetivos no menor tempo possível
+
 ---
 
 ## ⚙️ Funcionalidades
